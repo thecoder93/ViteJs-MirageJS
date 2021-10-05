@@ -1,0 +1,2 @@
+## Esempio di progetto in ViteJs (che usa Esbuild al posto di WebPack).
+Api mockate con MirageJS libreria di simulazione API che ti consente di creare, testare e condividere un'applicazione JavaScript completa e funzionante senza dover fare affidamento su alcun servizio di backend.
